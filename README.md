@@ -1,4 +1,4 @@
-#                                                           Hey there! My name's Morgan <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjYyN2ZkNTI0OGRmNmE5MzYxM2JmYjI3MjBjZWE2NjI3N2U1ZTYxNCZjdD1z/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" height="50">
+#                                                           Hey there! My name's Morgan <img src="https://media.giphy.com/media/MDzAbZtuZN0MjmlOfe/giphy.gif" width="100" height="100">
 
 
 
