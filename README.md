@@ -5,3 +5,7 @@
 ### 👯 I’m looking to collaborate on full-stack projects and client websites
 ### 🤔 Learning anything and everything new that I can!
 
+
+<div id="header" align="center">
+     https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTc4NDI3NjVkMWEwZDM5ZmZkMmMzNzU0ZWRiZWFjYjM3MzhhMmRmYyZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif
+</div>
