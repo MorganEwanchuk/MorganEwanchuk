@@ -19,5 +19,20 @@
 ### 🤔 Learning anything and everything new that I can!
 
 
+---
 
+### :hammer_and_wrench: Languages and Tools :
  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title ="CSS" alt="CSS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title ="Git" alt="Git" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title ="Github" alt="Github" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title ="HTML" alt="HTML" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title ="NodeJS" alt="NodeJS" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title ="MongoDB" alt="MongoDB" width="40" height="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title ="JavaScript" alt="JavaScript" width="40" height="40">
+  
+</div>
+
+
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=MorganEwanchuk&theme=dark&background=000000)](https://git.io/streak-stats)
