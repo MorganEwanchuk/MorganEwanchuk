@@ -1,5 +1,5 @@
 <div id="header" align="center">
-     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjA3ZDczZmUzYjMwYjk3NGQyOGFmNjg1OGZkNmVkYWRlNmU2MzM4OCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" height="150">
+     <img src="https://cdn.discordapp.com/attachments/989268312036896818/1077178734236413972/MeazLy_short_black_hair_man_typing_on_desktop_with_beautiful_su_93bcdb10-3c47-4179-a66e-b0b75d312771.png">
 <div id="badges">
 <a href="https://www.linkedin.com/in/morganewanchuk/" target="_blank" rel="noopener noreferrer"><img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
