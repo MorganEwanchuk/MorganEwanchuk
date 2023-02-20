@@ -1,15 +1,16 @@
-<div id="header" align="center">
+
+
+<div align="center">
+
+#                                                          Hey there! My name's Morgan <img src="https://media.giphy.com/media/MDzAbZtuZN0MjmlOfe/giphy.gif" width="100" height="75">
+
+<div id="header">
      <img src="https://cdn.discordapp.com/attachments/989268312036896818/1077178734236413972/MeazLy_short_black_hair_man_typing_on_desktop_with_beautiful_su_93bcdb10-3c47-4179-a66e-b0b75d312771.png">
+
 <div id="badges">
 <a href="https://www.linkedin.com/in/morganewanchuk/" target="_blank" rel="noopener noreferrer"><img src="https://shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></a>
 <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
-
-
-
-
-
-#                                                           Hey there! My name's Morgan <img src="https://media.giphy.com/media/MDzAbZtuZN0MjmlOfe/giphy.gif" width="100" height="75">
 
 
 
