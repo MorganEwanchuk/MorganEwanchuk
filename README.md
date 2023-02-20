@@ -36,4 +36,4 @@
 </div>
 
 
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=MorganEwanchuk&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MorganEwanchuk&theme=dark&hide_border=true&)](https://git.io/streak-stats)
