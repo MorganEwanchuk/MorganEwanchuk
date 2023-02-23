@@ -35,3 +35,4 @@
   
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MorganEwanchuk&theme=dark)](https://git.io/streak-stats)
