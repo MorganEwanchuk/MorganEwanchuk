@@ -39,13 +39,11 @@
 # Projects
 </div>
 
-<div>
-     
-![indulgence-page](https://user-images.githubusercontent.com/105079737/220980672-619a28a2-c874-465b-998d-580de77cdf0f.jpg)
-     
+
+<div style="width: 50%">
 
 
-
+     ![ezgif com-crop](https://user-images.githubusercontent.com/105079737/221046422-574d1230-b5cb-401c-9304-4b90d102dcb1.gif)
 
 </div width>
 
