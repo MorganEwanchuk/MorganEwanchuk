@@ -38,17 +38,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MorganEwanchuk&theme=dark)](https://git.io/streak-stats)
 # Projects
 </div>
-
+</div>
 
 <div style="width: 50%">
+     
 
+![RrSyMi6 - Imgur](https://user-images.githubusercontent.com/105079737/221047762-d73f725e-1669-41ef-b4dc-c1aa1da3eef5.gif)
 
-     ![ezgif com-crop](https://user-images.githubusercontent.com/105079737/221046422-574d1230-b5cb-401c-9304-4b90d102dcb1.gif)
-
-</div width>
-
-
-
-
-
+     
 
