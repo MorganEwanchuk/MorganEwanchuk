@@ -40,13 +40,14 @@
 </div>
 
 <div>
+     
 ![indulgence-page](https://user-images.githubusercontent.com/105079737/220980672-619a28a2-c874-465b-998d-580de77cdf0f.jpg)
+     
 
 
 
 
-
-</div>
+</div width>
 
 
 
