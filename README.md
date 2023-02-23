@@ -44,7 +44,6 @@
 <table><tr>
 
 <td><img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/indulgencegif.gif"></td>
-     <td><img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/indulgencegif.gif"></td>
      </tr></table>
 
 
