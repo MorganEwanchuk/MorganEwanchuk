@@ -43,8 +43,7 @@
 
 <table><tr>
 
-<td>![RrSyMi6 - Imgur](https://user-images.githubusercontent.com/105079737/221047762-d73f725e-1669-41ef-b4dc-c1aa1da3eef5.gif)</td>
-<td>![ezgif com-crop](https://user-images.githubusercontent.com/105079737/221048900-79601998-43e9-430b-90f9-35b03836e1c3.gif)</td>
+<td><img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/ezgif.com-crop.gif"></td>
      </tr></table>
 
 
