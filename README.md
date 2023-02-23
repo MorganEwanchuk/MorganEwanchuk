@@ -40,7 +40,7 @@
 </div>
 </div>
 
-<div style="width: 50%">
+<div style="width: 30%">
      
 
 ![RrSyMi6 - Imgur](https://user-images.githubusercontent.com/105079737/221047762-d73f725e-1669-41ef-b4dc-c1aa1da3eef5.gif)
