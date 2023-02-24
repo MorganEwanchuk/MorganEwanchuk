@@ -41,10 +41,9 @@
 </div>
 
 
-<table><tr>
 
-<td><img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/indulgencegif.gif"></td>
-<td><img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/portfoliogif.gif"></td>
 
-    
+| Indulgence Spa| My Portfolio                                                                                                               |
+| --------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/indulgencegif.gif"> | <img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/portfoliogif.gif">                                          |
 
