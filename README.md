@@ -45,5 +45,5 @@
 
 | Indulgence Spa| My Portfolio                                                                                                               |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| [<img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/indulgencegif.gif">](https://indulgencespa.netlify.app/) | [<img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/portfoliogif.gif">]https://morganewanchuk.netlify.app/                                          |
+| [<img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/indulgencegif.gif">](https://indulgencespa.netlify.app/) | [<img src="https://github.com/MorganEwanchuk/MorganEwanchuk/raw/main/portfoliogif.gif">](https://morganewanchuk.netlify.app/)|
 
